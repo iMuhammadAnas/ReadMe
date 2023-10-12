@@ -6,7 +6,7 @@ Hi! My name is Muhammad Anas 😄
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,illustrator,photoshop)]
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,illustrator,photoshop)
 <br/>
 
 ### Socials
