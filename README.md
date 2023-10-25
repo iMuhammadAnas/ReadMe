@@ -6,7 +6,7 @@ I'm a Front-End Developer. 💻🚀
 
 ### Skills
 
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind,illustrator,photoshop)
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,tailwind)
 <br/>
 
 ### Socials
